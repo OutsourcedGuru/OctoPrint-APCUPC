@@ -25,6 +25,8 @@ Rather than rigging up inline switches, ATX hacks or similar...
 ## Compatibility
 This plugin was created to support only the following platforms:
 
+* Raspberry Pi 400
+* Raspberry Pi 4B
 * Raspberry Pi 3B
 * Raspberry Pi 3B+
 * Raspberry Pi 2B
